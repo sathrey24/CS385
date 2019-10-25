@@ -1,2 +1,2 @@
 # CS385
-Basic GCD algorithm in cpp
+some examples of my algorithms coursework in cpp
