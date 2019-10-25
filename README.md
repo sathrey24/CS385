@@ -1,2 +1,2 @@
 # CS385
-some examples of my algorithms coursework in cpp
+Some examples of my algorithms coursework in cpp Fall 2019
